@@ -1,0 +1,54 @@
+h1 {
+  font-family: monospace;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-family: monospace;
+  text-align: left;
+  font-weight: 100;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+h3 {
+  font-family: monospace;
+  text-transform: uppercase;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+h4 {
+  font-family: monospace;
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+
+/* Resize images */
+.container img {
+  width: 6%;
+  height: auto;
+}
+
+a {
+  font-family: monospace;
+  text-transform: uppercase;
+
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+
+a[href*="dailyhuman"]:hover {
+  color: black;
+  text-decoration: coral wavy underline;
+}
+
+a[href*="villanova"]:hover {
+  color: rgb(2, 35, 99);
+  text-decoration: rgb(67, 185, 227) wavy underline;
+}
+
+li {
+  font-family: monospace;
+}
