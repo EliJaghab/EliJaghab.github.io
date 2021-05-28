@@ -27,7 +27,7 @@ h4 {
 
 /* Resize images */
 .container img {
-  width: 6%;
+  width: 75px;
   height: auto;
 }
 
@@ -51,4 +51,16 @@ a[href*="villanova"]:hover {
 
 li {
   font-family: monospace;
+}
+
+.self-learning {
+  font-family: monospace;
+  font-size: 13px;
+  width: 20px;
+  height: auto;
+}
+
+.self-learning-img {
+  width: 20px;
+  height: auto;
 }
