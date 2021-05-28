@@ -1,0 +1,45 @@
+h1 {
+  font-family: monospace;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-family: monospace;
+  text-align: left;
+  font-weight: 100;
+  font-size: 20px;
+  letter-spacing: 5px;
+}
+
+/* Resize images */
+.container img {
+  width: 2.5%;
+  height: auto;
+}
+
+a {
+  color: darkslategrey;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 22px;
+}
+
+a[href*="github"]:hover {
+  color: black;
+}
+
+a[href*="LinkedIn"]:hover {
+  color: rgb(21, 105, 191);
+}
+
+a[href*="soundcloud"]:hover {
+  color: rgb(253, 108, 33);
+}
+
+a[href*="instagram"]:hover {
+  color: rgb(143, 58, 188);
+}
+
+img[alt*="GitHub Logo"] {
+  size: 50%;
+}
