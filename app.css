@@ -43,3 +43,8 @@ a[href*="instagram"]:hover {
 img[alt*="GitHub Logo"] {
   size: 50%;
 }
+
+#full-page {
+  padding-left: 100px;
+  padding-top: 20px;
+}
