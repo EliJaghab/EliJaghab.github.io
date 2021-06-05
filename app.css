@@ -120,7 +120,7 @@ a[href*="interviewcake"]:hover {
 .self-learning {
   font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
     "Arial", sans-serif;
-  font-size: 13px;
+  font-size: 16px;
 }
 
 .self-learning-img {
@@ -128,7 +128,7 @@ a[href*="interviewcake"]:hover {
   height: auto;
 }
 
-#ul-index {
+#ul-images {
   list-style: none;
   padding-left: 10px;
 }
