@@ -14,26 +14,17 @@ h2 {
 h3 {
   font-family: monospace;
   text-transform: uppercase;
-  font-size: 20px;
-  letter-spacing: 2px;
-}
-
-h4 {
-  font-family: monospace;
-  text-transform: uppercase;
   font-size: 15px;
   letter-spacing: 2px;
 }
-
-/* Resize images */
-.container img {
-  width: 75px;
-  height: auto;
+h4 {
+  font-family: monospace;
 }
 
 a {
   font-family: monospace;
   color: black;
+
   text-decoration: underline;
   font-size: 25px;
 }
@@ -75,4 +66,9 @@ a[href*="leetcode"]:hover {
 a[href*="interviewcake"]:hover {
   color: rgb(2, 35, 99);
   text-decoration: rgb(91, 192, 222) wavy underline;
+}
+
+#full-page {
+  padding-left: 100px;
+  padding-top: 20px;
 }

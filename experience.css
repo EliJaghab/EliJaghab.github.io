@@ -14,14 +14,13 @@ h2 {
 h3 {
   font-family: monospace;
   text-transform: uppercase;
-
   font-size: 15px;
   letter-spacing: 2px;
 }
 
 /* Resize images */
 .container img {
-  width: 6%;
+  width: 75px;
   height: auto;
 }
 
@@ -45,4 +44,9 @@ a[href*="villanova"]:hover {
 
 li {
   font-family: monospace;
+}
+
+#full-page {
+  padding-left: 100px;
+  padding-top: 20px;
 }

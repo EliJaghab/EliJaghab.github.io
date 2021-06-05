@@ -46,5 +46,75 @@ img[alt*="GitHub Logo"] {
 
 #full-page {
   padding-left: 100px;
-  padding-top: 20px;
+  padding-top: 0px;
+}
+
+a[href*="dailyhuman"]:hover {
+  color: black;
+  text-decoration: coral wavy underline;
+}
+
+a[href*="villanova"]:hover {
+  color: rgb(2, 35, 99);
+  text-decoration: rgb(67, 185, 227) wavy underline;
+}
+
+#education-link {
+  font-family: monospace;
+  text-transform: uppercase;
+
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+
+/* Resize images */
+.container-exp img {
+  width: 75px;
+  height: auto;
+}
+
+h3 {
+  font-family: monospace;
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+
+h4 {
+  font-family: monospace;
+}
+
+li {
+  font-family: monospace;
+}
+
+a[href*="udemy"]:hover {
+  color: rgb(2, 35, 99);
+  text-decoration: rgb(235, 82, 79) wavy underline;
+}
+
+a[href*="leetcode"]:hover {
+  color: rgb(2, 35, 99);
+  text-decoration: rgb(248, 159, 27) wavy underline;
+}
+
+a[href*="interviewcake"]:hover {
+  color: rgb(2, 35, 99);
+  text-decoration: rgb(91, 192, 222) wavy underline;
+}
+
+/* Resize images */
+.container-edu img {
+  width: 75px;
+  height: auto;
+}
+
+.self-learning {
+  font-family: monospace;
+  font-size: 13px;
+}
+
+.self-learning-img {
+  width: 20px;
+  height: auto;
 }
