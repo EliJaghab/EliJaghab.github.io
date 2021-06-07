@@ -137,3 +137,22 @@ a[href*="interviewcake"]:hover {
   list-style: none;
   padding-left: 10px;
 }
+
+#portfolio-link {
+  color: navy;
+  font-size: 16px;
+  text-decoration: none;
+}
+#portfolio-link:hover {
+  color: purple;
+}
+
+#headerlogo {
+  font-size: 32px;
+  text-decoration: none;
+}
+
+.headerlogo-img {
+  width: 25px;
+  height: auto;
+}
