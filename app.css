@@ -156,3 +156,16 @@ a[href*="interviewcake"]:hover {
   width: 25px;
   height: auto;
 }
+
+.ext-link-img {
+  width: 35px;
+  padding: 10px 0px 0px 10px;
+  height: auto;
+}
+
+.header-img {
+  width: 35px;
+  margin-right: 10px;
+  margin-left: 5px;
+  border-radius: 50%
+}
