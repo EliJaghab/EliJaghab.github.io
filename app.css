@@ -129,7 +129,7 @@ a[href*="interviewcake"]:hover {
 }
 
 .self-learning-img {
-  width: 20px;
+  width: 30px;
   height: auto;
 }
 
@@ -166,5 +166,5 @@ a[href*="interviewcake"]:hover {
   width: 35px;
   margin-right: 10px;
   margin-left: 5px;
-  border-radius: 50%
+  border-radius: 50%;
 }
